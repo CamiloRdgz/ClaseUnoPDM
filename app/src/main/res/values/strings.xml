@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AppUno-CamiloRdgz</string>
+    <string name="user">User</string>
+    <string name="btn1">Log In</string>
+    <string name="btn2">Sign In</string>
+
 </resources>
