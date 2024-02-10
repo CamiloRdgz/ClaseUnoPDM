@@ -1,4 +1,4 @@
-package com.appuno_camilordgz;
+package com.project001;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.appuno_camilordgz", appContext.getPackageName());
+        assertEquals("com.project001", appContext.getPackageName());
     }
 }

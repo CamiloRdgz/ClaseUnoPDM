@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "AppUno-CamiloRdgz"
+rootProject.name = "Project001"
 include(":app")
- 
