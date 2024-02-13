@@ -41,21 +41,22 @@
         tools:ignore="UselessParent">
 
         <TextView
+            android:id="@+id/input"
             android:layout_width="match_parent"
             android:layout_height="100dp"
-            android:gravity="end|center_vertical"
+            android:gravity="end|bottom"
             android:padding="10dp"
-            android:text="= 210"
+            android:text=""
             android:textColor="@color/white"
             android:textSize="40sp" />
 
         <TextView
-            android:id="@+id/numbers"
+            android:id="@+id/result"
             android:layout_width="match_parent"
             android:layout_height="185dp"
             android:gravity="end|bottom"
             android:padding="10dp"
-            android:text="14*15"
+            android:text=""
             android:textColor="@color/white"
             android:textSize="55sp" />
     </LinearLayout>
